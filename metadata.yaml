@@ -1,0 +1,29 @@
+_repo: Commercialism-and-Journalism_29953
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holt, Hamilton
+    birthdate: 1872
+    deathdate: 1951
+    gutenberg_agent_id: '34264'
+    url: http://www.gutenberg.org/2009/agents/34264
+description: ''
+gutenberg_issued: '2009-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29953'
+  lccn: 09032249
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Journalism'
+- !lcc 'PN'
+- !lcc 'HF'
+- !lcsh 'Advertising'
+title: Commercialism and Journalism
+url: http://www.gutenberg.org/ebooks/29953
